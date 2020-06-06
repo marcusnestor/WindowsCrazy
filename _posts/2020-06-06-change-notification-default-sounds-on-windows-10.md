@@ -39,4 +39,4 @@ Follow the steps to change the default notification sounds on Windows.
  	<li>Now you can receive an alert with the sound you specified.</li>
 </ol>
 <h2 id="2">Closure:</h2>
-Hoping that the above article will help you know <strong><span class="dcap">H</span>ow to change notification sounds on Windows 10</strong> by using simple steps with clear cut<strong> screenshots.</strong> Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
+Hoping that the above article will help you know<strong> How to change notification sounds on Windows 10</strong> by using simple steps with clear cut<strong> screenshots.</strong> Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
