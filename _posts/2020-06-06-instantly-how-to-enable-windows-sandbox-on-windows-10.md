@@ -13,11 +13,11 @@ post_date: 2020-06-06 03:20:05
  	<li><a href="#1">Simple Steps to Enable Windows Sandbox</a></li>
  	<li><a href="#2">Wind up</a></li>
 </ul>
-<span class="dcap">W</span><strong>indows Sandbox in Windows 10</strong>: There are lots of exciting features that are released in Windows 10 (May 2019 Update). As a user, you have to use and experience each feature to know about its function.
+<span class="dcap">W</span><strong>indows Sandbox in Windows 10</strong>: There are lots of exciting features that are released in Windows 10 (May 2019 Update). As a user, you have to use and experience each feature to know about its function. Windows Sandbox is one of the new features of this update that creates a lightweight desktop environment for helping users to run applications safely in isolation.
 
-Windows Sandbox is one of the new features of this update that creates a lightweight desktop environment for helping users to run applications safely in isolation. Using this feature, you can run and install untrusted programs so it will affect your Windows PC. Windows Sandbox has Pristine, Secure, Disposable, and other useful properties.
+Using this feature, you can run and install untrusted programs so it will affect your Windows PC. Windows Sandbox has Pristine, Secure, Disposable, and other useful properties. Once you close the Windows Sandbox, all residual files, software, and other information will be deleted permanently.
 
-Once you close the Windows Sandbox, all residual files, software, and other information will be deleted permanently. It makes use of hardware virtualization and Microsoft Hypervisor technology in order to create a lightweight environment. It is similar to the virtual machine but you can easily set up it. In this guide, we will illustrate how to <strong>Enable Windows Sandbox in Windows 10</strong>.
+It makes use of hardware virtualization and Microsoft Hypervisor technology in order to create a lightweight environment. It is similar to the virtual machine but you can easily set up it. In this guide, we will illustrate how to <strong>Enable Windows Sandbox in Windows 10</strong>.
 <h2 id="1">Simple Steps to Enable Windows Sandbox:</h2>
 <ol>
  	<li>Open the <strong>Control Panel</strong> via the <strong>Start</strong> menu.
