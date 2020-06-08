@@ -13,7 +13,7 @@ post_date: 2020-06-08 13:10:45
  	<li><a href="#1">Restore Registry from its backup on Windows 10</a></li>
  	<li><a href="#2">Summary</a></li>
 </ul>
-<strong><strong><strong><span class="dcap">H</span><strong>ow to Restore Registry from its backup on Windows 10? </strong></strong></strong></strong>To modify the Registry to change specific system settings, and if you forget to create the backup, or during an installation of a faulty update the Registry gets corrupted, you can still recover Windows 10 using the secret Registry backup. To edit the Registry, because the database contains low-level settings necessary for the OS and certain apps to work correctly. Probably, OS keeps a backup of a working Registry for recovery purposes, which you can use to manually restore your computer to a working condition when you don’t have a backup.
+<strong><strong><strong><span class="dcap">H</span><strong>ow to Restore Registry from its backup on Windows 10? </strong></strong></strong></strong>To modify the <strong>Registry</strong> to change specific system settings, and if you forget to create the <strong>backup</strong>, or during an installation of a faulty update the <strong>Registry</strong> gets <strong>corrupted</strong>, you can still recover Windows 10 using the secret Registry backup.<strong> To edit the Registry</strong>, because the database contains<strong> low-level settings</strong> necessary for the <strong>OS</strong> and certain apps to work correctly. Probably, <strong>OS</strong> keeps a backup of a working <strong>Registry</strong> for recovery purposes, which you can use to manually <strong>restore your computer</strong> to a working condition when you don’t have a backup.
 
 Here, this article will help you to <strong>Restore Registry from its backup on Windows 10 </strong>in simple steps.
 <h2 id="1"><strong>Restore Registry from its backup on Windows 10:</strong></h2>
@@ -29,7 +29,7 @@ Follow the steps to <strong>Restore Registry from its backup on Windows 10 </str
 [caption id="attachment_1080" align="aligncenter" width="1167"]<img class="wp-image-1080 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_1-5.png" alt="Recovery" width="1167" height="815" /> Recovery[/caption]</li>
  	<li>Then click the <strong>Troubleshoot</strong> option.</li>
  	<li>After that, click the <strong>Advanced</strong> <strong>options</strong> and select the <strong>Command</strong> <strong>Prompt</strong>.</li>
- 	<li>Now, the <strong>Command Prompt</strong> window gets open, in that it starts with <code>X:\Windows\System32</code> . The operating system is installed on <code>C:\</code>, when you boot your computer on <strong>recovery</strong> mode, this drive letter changes to something else. However, in most cases the drive letter is <code>D:\</code>.</li>
+ 	<li>Now, the <strong>Command Prompt</strong> window gets open, in that it starts with<strong> X:\Windows\System32</strong>. The operating system is installed on <strong>C:\</strong> when you boot your computer on <strong>recovery</strong> mode, this drive letter changes to something else. However, in most cases, the drive letter is <strong>D:\</strong>.</li>
  	<li><strong>Copy and Paste the following command</strong> to enter into the correct drive where Windows is installed.</li>
  	<li>Press <strong><strong>Enter.</strong></strong>
 <pre><code>d:\</code></pre>
