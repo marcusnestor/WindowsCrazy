@@ -25,7 +25,9 @@ There are several ways to see the update history from within Windows Desktop. We
 
 [caption id="attachment_1114" align="alignnone" width="878"]<img class="size-full wp-image-1114" src="https://windowscrazy.com/wp-content/uploads/2020/06/eu5.png" alt="Update &amp; Security" width="878" height="569" /> Update &amp; Security[/caption]</li>
  	<li>It will open the <strong>Windows Update</strong> settings page.</li>
- 	<li>You have to click on the <strong>View update history</strong> link.</li>
+ 	<li>You have to click on the <strong>View update history</strong> link.
+
+[caption id="attachment_1132" align="alignnone" width="886"]<img class="size-full wp-image-1132" src="https://windowscrazy.com/wp-content/uploads/2020/06/uh1-1.png" alt="View update history" width="886" height="575" /> View update history[/caption]</li>
  	<li>On the next page, you can see all updates that are successfully installed or failed updates of your Windows 10 system.</li>
 </ol>
 <h2 id="2">Way 2 - Check Update History via Command Prompt:</h2>
@@ -38,7 +40,9 @@ There are several ways to see the update history from within Windows Desktop. We
 <code>wmic qfe list</code>
 <ul>
  	<li>You will be displayed with the information regarding the update history of your Windows system.</li>
- 	<li>You can see when the update is installed, description, HotfixID, and even more.</li>
+ 	<li>You can see when the update is installed, description, HotfixID, and even more.
+
+[caption id="attachment_1136" align="alignnone" width="894"]<img class="size-full wp-image-1136" src="https://windowscrazy.com/wp-content/uploads/2020/06/uh4.png" alt="Update History in Command Prompt" width="894" height="492" /> Update History in Command Prompt[/caption]</li>
 </ul>
 <h2 id="3">Way 3 - Check Update History - Using Control Panel:</h2>
 <ol>
@@ -48,8 +52,12 @@ There are several ways to see the update history from within Windows Desktop. We
  	<li>After that, you have to click on <strong>Programs</strong>.
 
 [caption id="attachment_999" align="alignnone" width="806"]<img class="size-full wp-image-999" src="https://windowscrazy.com/wp-content/uploads/2020/06/ws2.png" alt="Programs" width="806" height="508" /> Programs[/caption]</li>
- 	<li>You have to proceed by clicking <strong>Programs &amp; Features</strong>.</li>
- 	<li>Then, you have to click on <b>View installed updates </b>on the left side.</li>
+ 	<li>You have to proceed by clicking <strong>Programs &amp; Features</strong>.
+
+[caption id="attachment_1133" align="alignnone" width="798"]<img class="size-full wp-image-1133" src="https://windowscrazy.com/wp-content/uploads/2020/06/uh2.png" alt="Programs and Features" width="798" height="507" /> Programs and Features[/caption]</li>
+ 	<li>Then, you have to click on <b>View installed updates </b>on the left side.
+
+[caption id="attachment_1134" align="alignnone" width="805"]<img class="size-full wp-image-1134" src="https://windowscrazy.com/wp-content/uploads/2020/06/uh3.png" alt="View installed updates" width="805" height="510" /> View installed updates[/caption]</li>
  	<li>Now, you can see the list of updates installed on your system.</li>
 </ol>
 <h2 id="4">A Short Synopsis:</h2>
