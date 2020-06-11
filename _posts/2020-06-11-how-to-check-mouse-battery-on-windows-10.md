@@ -15,7 +15,7 @@ post_date: 2020-06-11 09:54:22
  	<li><a href="#1">Check Mouse battery on Windows 10 using Settings</a></li>
  	<li><a href="#2">Verdict</a></li>
 </ul>
-<strong><strong><strong><span class="dcap">H</span><strong>ow to check Mouse battery on Windows 10? </strong></strong></strong></strong>The peripherals, such as a mouse, keyboard, pen, or headphones, chances are they’re connected using Bluetooth, and if you want to check the battery level, you typically have to use their software or battery indicator in peripheral itself. In the release of Windows 10 version 1809, you can check the battery level more quickly using the Settings app.
+<strong><strong><strong><span class="dcap">H</span><strong>ow to check Mouse battery on Windows 10? </strong></strong></strong></strong>The peripherals, such as a <strong>mouse, keyboard, pen, or headphones,</strong> chances are they’re connected using <strong>Bluetooth</strong>, and if you want to <strong>check the battery level,</strong> you typically have to use their<strong> software or battery indicator</strong> in peripheral itself. In the release of Windows 10 version 1809, you can check the <strong>battery level</strong> more quickly using the<strong> Settings app.</strong>
 
 In this article, we illustrate the silhouette to <strong>check the battery percentage of your Bluetooth mouse, keyboard, and other devices on Windows 10</strong> in simple and very easy steps.
 <h2 id="1">Check Mouse battery on Windows 10 using Settings:</h2>
