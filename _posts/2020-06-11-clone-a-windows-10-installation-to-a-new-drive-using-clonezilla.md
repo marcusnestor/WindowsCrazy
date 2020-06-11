@@ -17,12 +17,11 @@ post_date: 2020-06-11 12:16:53
  	<li><a href="#3">Verdict</a></li>
 </ul>
 <strong><strong><strong><span class="dcap">H</span><strong>ow to clone a Windows 10 Installation to a New Drive using Clonezilla? </strong></strong></strong></strong>It is a free tool based on <strong>Linux</strong> designed specifically for drive cloning containing any kind of data just like <strong>Macrium</strong> <strong>Reflect</strong>. Use <strong>Clonezilla</strong> to migrate the current installation with all your settings, apps, and files to a new equal, larger, or faster drive without the need of <strong>reinstalling</strong> the <strong>operating</strong> <strong>system</strong>.
-<div id="KonaBody" class="entry-content" data-first_letter="C">
 
 In this article, we describe<strong> how to clone a Windows 10 Installation to a New Drive using Clonezilla</strong> in simple steps.
 <h2 id="1">Create Clonezilla bootable media:</h2>
 Firstly, you can clone a drive, so you need to download the Clonezilla ISO file and create a bootable media to use the tool.
-<h4>Download Clonezilla ISO file</h4>
+<h3>Download Clonezilla ISO file</h3>
 <ul>
  	<li>Go to the <a href="https://clonezilla.org/downloads/download.php?branch=alternative"><strong>Clonezilla</strong> </a>download page.</li>
  	<li>Then, select the <strong>ISO</strong> option as the file type.</li>
@@ -31,8 +30,7 @@ Firstly, you can clone a drive, so you need to download the Clonezilla ISO file 
 [caption id="attachment_1286" align="aligncenter" width="1490"]<img class="wp-image-1286 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_1-15.png" alt="Download Clonezilla ISO file" width="1490" height="506" /> Download Clonezilla ISO file[/caption]</li>
  	<li>Once you complete the steps, you can proceed to use <strong>Rufus</strong> to create a USB bootable media.</li>
 </ul>
-<div id="KonaBody" class="entry-content" data-first_letter="C">
-<h4>Create Clonezilla bootable USB with Rufus</h4>
+<h3>Create Clonezilla bootable USB with Rufus</h3>
 Follow the below steps to create a bootable media, connect a USB flash drive with at least 4 GB of storage.
 <ul>
  	<li>Go to the official <a href="https://rufus.ie/"><strong>Rufus</strong> </a>page.</li>
@@ -123,6 +121,3 @@ Use the below steps to clone a Windows 10 installation to a new drive using Clon
 </ul>
 <h2 id="3">Verdict:</h2>
 In this article, we will help you to know <strong>how to clone a Windows 10 Installation to a New Drive using Clonezilla</strong> using simple steps. Kindly share if any <strong>queries/suggestions</strong> in the below comment section and Don't forget to drop your worthwhile <strong>feedback.</strong>
-
-</div>
-</div>
