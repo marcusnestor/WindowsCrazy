@@ -16,7 +16,7 @@ post_date: 2020-06-11 12:16:53
  	<li><a href="#2">Clone Windows 10 using Clonezilla</a></li>
  	<li><a href="#3">Verdict</a></li>
 </ul>
-<strong><strong><strong><span class="dcap">H</span><strong>ow to clone a Windows 10 Installation to a New Drive using Clonezilla? </strong></strong></strong></strong>It is a free tool based on Linux designed specifically for drive cloning containing any kind of data just like Macrium Reflect. Use Clonezilla to migrate the current installation with all your settings, apps, and files to a new equal, larger, or faster drive without the need of reinstalling the operating system.
+<strong><strong><strong><span class="dcap">H</span><strong>ow to clone a Windows 10 Installation to a New Drive using Clonezilla? </strong></strong></strong></strong>It is a free tool based on <strong>Linux</strong> designed specifically for drive cloning containing any kind of data just like <strong>Macrium</strong> <strong>Reflect</strong>. Use <strong>Clonezilla</strong> to migrate the current installation with all your settings, apps, and files to a new equal, larger, or faster drive without the need of <strong>reinstalling</strong> the <strong>operating</strong> <strong>system</strong>.
 <div id="KonaBody" class="entry-content" data-first_letter="C">
 
 In this article, we describe<strong> how to clone a Windows 10 Installation to a New Drive using Clonezilla</strong> in simple steps.
