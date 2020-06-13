@@ -21,7 +21,7 @@ post_date: 2020-06-13 05:00:17
 Read this article to<strong> reset the Outlook app when it is not working on your Android device</strong> in simple steps.
 <h2 id="1">Reset Microsoft Outlook for Android 10:</h2>
 Follow the below steps to Reset Microsoft Outlook for Android 10 in simple steps.
-<ul>
+<ol>
  	<li>First, you have to open the <strong>Settings</strong> option.</li>
  	<li>Then, select the <strong>Storage</strong> and then tap on <strong><strong>Other apps.</strong></strong>
 
@@ -36,7 +36,7 @@ Follow the below steps to Reset Microsoft Outlook for Android 10 in simple steps
 <strong>Image Source:</strong> <em>pureinfotech.com</em></li>
  	<li>That's all.</li>
  	<li>The Android app will reset to its default settings, and you’ll need to sign-in to your email accounts again.</li>
-</ul>
+</ol>
 <h2 id="2">Reset Microsoft Outlook for Android:</h2>
 Follow the steps to Reset Microsoft Outlook for Android in simple steps.
 <ol>
