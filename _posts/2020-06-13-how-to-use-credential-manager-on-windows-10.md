@@ -24,7 +24,7 @@ post_date: 2020-06-13 04:57:40
 In this article, we describe some steps to <strong>use the Credential Manager on Windows 10</strong> in simple steps.
 <h2 id="1">Edit existing sign-in information using Credential Manager:</h2>
 Follow the steps to Edit existing sign-in information using Credential Manager in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>Start menu.</strong></li>
  	<li>In the search column, type as <strong>Control Panel</strong>.</li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -45,10 +45,10 @@ Follow the steps to Edit existing sign-in information using Credential Manager i
 [caption id="attachment_1314" align="aligncenter" width="1045"]<img class="wp-image-1314 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_6-5.png" alt="Edit Window Credential" width="1045" height="396" /> Edit Window Credential[/caption]</li>
  	<li>The information will be updated with the new credentials, which means no more login prompts if you originally saved the wrong username or password or the sign-in information has changed.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="2">Delete sign-in information using Credential Manager:</h2>
 Follow the steps to Delete sign-in information using Credential Manager in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>Start menu.</strong></li>
  	<li>In the search column, type as <strong>Control Panel</strong>.</li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -67,10 +67,10 @@ Follow the steps to Delete sign-in information using Credential Manager in simpl
  	<li>Finally, click the <strong>Yes</strong>.</li>
  	<li>Once the above steps have been completed, the account credentials will no longer be available on the device, which means that future logins will require you to enter a username and password.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="3">Add new sign-in information using Credential Manager:</h2>
 Follow the steps to Add new sign-in information using Credential Manager in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>Start menu.</strong></li>
  	<li>In the search column, type as <strong>Control Panel</strong>.</li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -93,10 +93,10 @@ Follow the steps to Add new sign-in information using Credential Manager in simp
 [caption id="attachment_1312" align="aligncenter" width="1009"]<img class="wp-image-1312 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_4-9.png" alt="Add network credential" width="1009" height="607" /> Add network credential[/caption]</li>
  	<li>The new account information will be added to your device to sign-in automatically the next time you access the apps or network shared.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="4">Backup sign-in information using Credential Manager:</h2>
 Follow the steps to Backup sign-in information using Credential Manager in simple steps.
-<ul>
+<ol>
  	<li>Go to the<strong> Start menu.</strong></li>
  	<li>In the search column, type as <strong>Control Panel</strong>.</li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -123,10 +123,10 @@ Follow the steps to Backup sign-in information using Credential Manager in simpl
  	<li>Click <strong>Next</strong> and <strong>Finish</strong>.</li>
  	<li>Then, you will end up with a <strong>.crd file</strong> containing all your Windows 10 and web credentials that you can import to another computer or to the same device after a clean installation.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="5">Restore sign-in information using Credential Manager:</h2>
 Follow the steps to Restore sign-in information using Credential Manager in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>Start menu.</strong></li>
  	<li>In the search column, type as <strong>Control Panel</strong>.</li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -153,7 +153,7 @@ Follow the steps to Restore sign-in information using Credential Manager in simp
  	<li>Finally, click the <strong>Next</strong> and <strong>Finish.</strong></li>
  	<li> Now, all your web, app, and network credentials will be restored on your device.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="6">Verdict:</h2>
 In this article, we will help you to<strong> use the Credential Manager on Windows 10 </strong>using simple steps. Kindly share if any <strong>queries/suggestions</strong> in the below comment section and Don't forget to drop your worthwhile <strong>feedback.</strong>
 
