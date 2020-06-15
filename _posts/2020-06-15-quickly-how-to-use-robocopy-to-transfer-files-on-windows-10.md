@@ -12,13 +12,13 @@ post_date: 2020-06-15 03:00:48
 <ul class="toc">
  	<li><a href="#1">Robocopy - Help Syntax</a></li>
  	<li><a href="#2">Configuring File Sharing</a></li>
- 	<li><a href="#2">Using Robocopy to Copy Files</a></li>
- 	<li><a href="#3">Verdict</a></li>
+ 	<li><a href="#3">Using Robocopy to Copy Files</a></li>
+ 	<li><a href="#4">Verdict</a></li>
 </ul>
 <span class="dcap">R</span><strong>obocopy on Windows 10</strong>: <strong>Robocopy (Robust File Copy)</strong> is one of the most used command-line tools to copy large volumes of data in Windows 10. It allows you to copy or transfer files and folders from one place to another effectively in one go.
 
 In addition, you can also sync the folder's destinations. If you want to copy more files or folders faster, then you have to make use of this Windows utility. In this tutorial, you will learn the steps to <strong>Use Robocopy to Transfer Files on Windows 10</strong> PC so you can copy files quickly.
-<h2>Robocopy - Help Syntax:</h2>
+<h2 id="1">Robocopy - Help Syntax:</h2>
 There are a lot of options to copy or move files using robocopy. Each individual section comes up with several options. If you want to view all sorts of options, then you want to run the help command of robocopy.
 <ul>
  	<li>Copy and paste the below help command to view more useful information.</li>
@@ -26,7 +26,7 @@ There are a lot of options to copy or move files using robocopy. Each individual
 
 [caption id="attachment_1344" align="alignnone" width="870"]<img class="size-full wp-image-1344" src="https://windowscrazy.com/wp-content/uploads/2020/06/ro1.png" alt="Robocopy - Help" width="870" height="485" /> Robocopy - Help[/caption]</li>
 </ul>
-<h2>Configure File Sharing:</h2>
+<h2 id="2">Configure File Sharing:</h2>
 First and foremost, we have to enable <strong><a href="https://windowscrazy.com/207-get-started-with-file-sharing-in-windows-10-simple-guide/">file sharing</a></strong> in order to copy files between the two systems.
 <ol>
  	<li>You have to open the <strong>File Explorer</strong> and choose any folder that you want to share.</li>
@@ -50,7 +50,7 @@ First and foremost, we have to enable <strong><a href="https://windowscrazy.com/
 [caption id="attachment_1349" align="alignnone" width="980"]<img class="size-full wp-image-1349" src="https://windowscrazy.com/wp-content/uploads/2020/06/ro6.png" alt="Network Path" width="980" height="622" /> Network Path[/caption]</li>
  	<li>At last, you have to click the <strong>Close</strong> button.</li>
 </ol>
-<h2>Using Robocopy to Copy Files:</h2>
+<h2 id="3">Using Robocopy to Copy Files:</h2>
 Just follow the below steps once the file-sharing is configured.
 <ul>
  	<li>Press the <strong>Windows key </strong>on your keyboard to open the <strong>Start</strong> menu. [You can also click the Windows logo in the bottom left corner of your screen]</li>
@@ -70,5 +70,5 @@ Just follow the below steps once the file-sharing is configured.
 [caption id="attachment_1350" align="alignnone" width="1023"]<img class="size-full wp-image-1350" src="https://windowscrazy.com/wp-content/uploads/2020/06/ro7.png" alt="Copying Files" width="1023" height="553" /> Copying Files[/caption]</li>
  	<li>In the above command, you just change the source and destination paths and run it.</li>
 </ul>
-<h2 id="3">Verdict:</h2>
+<h2 id="4">Verdict:</h2>
 In this guide, we outlined the essential steps to <strong>Use Robocopy to Transfer Files on Windows 10. </strong>First, enable the file sharing and then copy or transfer files from one location to another quickly using the robocopy utility. Don't forget to share your <strong>valuable comments</strong> in the below section. Thanks for visiting <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
