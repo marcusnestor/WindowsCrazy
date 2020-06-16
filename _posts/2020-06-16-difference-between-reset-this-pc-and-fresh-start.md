@@ -38,11 +38,11 @@ Follow the steps to Reset this PC on Windows 10 in simple steps.
 <ol>
  	<li>Make use of the shortcut<strong> Windows + I</strong> to open the Windows Settings.</li>
  	<li>Then, select the <strong>Update &amp; Security</strong> in the Settings page.
-<div class="mceTemp">
-<ol id="attachment_1494" class="wp-caption aligncenter" style="width: 795px;"><img class="wp-image-1494 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-7-e1592304955650.png" alt="Settings" width="795" height="501" />Settings</ol>
+<div class="mceTemp"><img class="wp-image-1494 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-7-e1592304955650.png" alt="Settings" width="795" height="501" />
+<ol id="attachment_1494" class="wp-caption aligncenter" style="width: 795px;">Settings</ol>
 </div></li>
  	<li>In the left pane, click on the <strong>Recovery</strong> option.</li>
- 	<li>Now, under the <strong>Reset this P</strong>C option, click the <strong>Get started</strong> button.
+ 	<li>Now, under the <strong>Reset this PC</strong> option, click the <strong>Get started</strong> button.
 
 [caption id="attachment_1495" align="aligncenter" width="798"]<img class="size-full wp-image-1495" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_9-5.png" alt="Recovery" width="798" height="505" /> Recovery[/caption]</li>
  	<li>In the next window, if you want to keep your files without removing then select the option <strong>Keep my files </strong>or else choose the <strong><strong>other one </strong></strong>and click the <strong>Next</strong> option.
