@@ -35,11 +35,12 @@ Follow the steps to Reset this PC on Windows 10 in simple steps.
  	<li>That's all.</li>
 </ul>
 <h3>Steps to reset PC:</h3>
-<ul>
+<ol>
  	<li>Make use of the shortcut<strong> Windows + I</strong> to open the Windows Settings.</li>
  	<li>Then, select the <strong>Update &amp; Security</strong> in the Settings page.
-
-[caption id="attachment_1494" align="aligncenter" width="795"]<img class="wp-image-1494 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-7-e1592304955650.png" alt="Settings" width="795" height="501" /> Settings[/caption]</li>
+<div class="mceTemp">
+<ol id="attachment_1494" class="wp-caption aligncenter" style="width: 795px;"><img class="wp-image-1494 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-7-e1592304955650.png" alt="Settings" width="795" height="501" />Settings</ol>
+</div></li>
  	<li>In the left pane, click on the <strong>Recovery</strong> option.</li>
  	<li>Now, under the <strong>Reset this P</strong>C option, click the <strong>Get started</strong> button.
 
@@ -53,7 +54,7 @@ Follow the steps to Reset this PC on Windows 10 in simple steps.
 
 [caption id="attachment_1498" align="aligncenter" width="677"]<img class="size-full wp-image-1498" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_12-4.png" alt="Reset" width="677" height="394" /> Reset[/caption]</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="2">Fresh Start:</h2>
 Follow the steps to Fresh Start the Windows 10 in simple steps.
 <ul>
@@ -71,7 +72,7 @@ Follow the steps to Fresh Start the Windows 10 in simple steps.
  	<li>Follow the below steps if you are<strong> planning Fresh Start with a clean copy.</strong></li>
 </ul>
 <h3>Steps to Fresh Start:</h3>
-<ul>
+<ol>
  	<li>Go to the <strong>start menu.</strong></li>
  	<li>In the search column, type as <strong>Windows Security.</strong></li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -97,6 +98,6 @@ Follow the steps to Fresh Start the Windows 10 in simple steps.
 
 [caption id="attachment_1491" align="aligncenter" width="666"]<img class="wp-image-1491 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_7-8.png" alt="Fresh start" width="666" height="352" /> Fresh start[/caption]</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="3">A Brief Synopsis:</h2>
 This guide assisted you in <strong>Difference between Reset this PC and Fresh Start </strong>on Windows 10. We hope that the steps let you understand it easier. Share your <strong>feedback</strong> in the below section.
