@@ -29,9 +29,7 @@ Follow the steps to Test your DNS settings on Windows 10 using a simple way.
  	<li>Now, the<strong> command prompt</strong> window gets open.</li>
  	<li>Copy and paste the following command and press Enter.
 <pre><code>nslookup</code></pre>
-[caption id="attachment_1405" align="aligncenter" width="1220"]<img class="wp-image-1405 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_1-19.png" alt="Command Prompt nslookup" width="1220" height="442" /> Command Prompt nslookup[/caption]
-
-<strong>Image Source:</strong> <em>pureinfotech.com</em></li>
+[caption id="attachment_1405" align="aligncenter" width="1220"]<img class="wp-image-1405 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_1-19.png" alt="Command Prompt nslookup" width="1220" height="442" /> Command Prompt nslookup[/caption]</li>
  	<li>Then under the Default Server field, you will notice the name of the <strong>DNS</strong> service you are using.</li>
  	<li>The <strong>Address</strong> field will also indicate the DNS address that your computer is using to route the network traffic.</li>
  	<li>That's all.</li>
@@ -44,9 +42,7 @@ Follow the steps to Test your DNS settings using Router in simple steps.
  	<li><strong>Browse</strong> to the network tools.</li>
  	<li>Now, select the <strong>nslookup</strong> option as the test method.
 
-[caption id="attachment_1407" align="aligncenter" width="1334"]<img class="wp-image-1407 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_2-18.png" alt="ASUS router nslookup tool" width="1334" height="783" /> ASUS router nslookup tool[/caption]
-
-<strong>Image Source:</strong> <em>pureinfotech.com</em></li>
+[caption id="attachment_1407" align="aligncenter" width="1334"]<img class="wp-image-1407 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_2-18.png" alt="ASUS router nslookup tool" width="1334" height="783" /> ASUS router nslookup tool[/caption]</li>
  	<li>The <strong>nslookup</strong> result should be able to determine the TCP/IP address the router is using to route the traffic.</li>
  	<li>That's all.</li>
 </ul>
@@ -56,10 +52,9 @@ Follow the steps to Test your DNS settings using DNSleaktest.com in simple steps
  	<li>Go to the official <a href="https://www.dnsleaktest.com/"><strong>DNSleaktest.com</strong> </a>website.</li>
  	<li>Select the <strong>Standard test</strong> button.
 
-[caption id="attachment_1409" align="aligncenter" width="1330"]<img class="wp-image-1409 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_3-15.png" alt="DNS leak test" width="1330" height="798" /> DNS leak test[/caption]
-
-<strong>Image Source:</strong> <em>pureinfotech.com</em></li>
+[caption id="attachment_1409" align="aligncenter" width="1330"]<img class="wp-image-1409 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_3-15.png" alt="DNS leak test" width="1330" height="798" /> DNS leak test[/caption]</li>
  	<li>Then, check the <strong>ISP</strong> column to see the name of the DNS service.</li>
 </ul>
+<strong>Image Source:</strong> <em>pureinfotech.com</em>
 <h2 id="4">Verdict:</h2>
 In the above article, you can get a piece of brief information on <strong>How to check if Network Traffic is using DNS resolver you set </strong>by using different methods with clear cut<strong> screenshots.</strong> Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
