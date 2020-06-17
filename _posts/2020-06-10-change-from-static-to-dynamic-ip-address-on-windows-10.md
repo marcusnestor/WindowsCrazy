@@ -90,20 +90,15 @@ Follow the below steps to Configure dynamic IP address (DHCP) using Settings in 
  	<li>In the left pane, select <strong>Ethernet</strong> or <strong>Wi-Fi</strong>.</li>
  	<li>Then, click the network connection.
 
-[caption id="attachment_1201" align="aligncenter" width="1417"]<img class="wp-image-1201 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_7-2.png" alt="Ethernet network " width="1417" height="549" /> Ethernet network[/caption]
-
-<strong>Image Source:</strong><em> </em><em>pureinfotech.com</em></li>
+[caption id="attachment_1201" align="aligncenter" width="1417"]<img class="wp-image-1201 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_7-2.png" alt="Ethernet network " width="1417" height="549" /> Ethernet network[/caption]</li>
  	<li>In the IP settings section, click the <strong>Edit</strong> button.
 
-[caption id="attachment_1202" align="aligncenter" width="585"]<img class="wp-image-1202 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-1.png" alt="Edit IP settings " width="585" height="704" /> Edit IP settings[/caption]
-
-<strong>Image Source:</strong><em> </em><em>pureinfotech.com</em></li>
+[caption id="attachment_1202" align="aligncenter" width="585"]<img class="wp-image-1202 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-1.png" alt="Edit IP settings " width="585" height="704" /> Edit IP settings[/caption]</li>
  	<li>The dialog box opens, in that click the drop-down menu of <strong>Edit IP settings</strong> and <strong>select the Automatic (DHCP)</strong>option.
 
-[caption id="attachment_1203" align="aligncenter" width="1289"]<img class="wp-image-1203 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_9.png" alt="Enable automatic (DHCP) IP address " width="1289" height="697" /> Enable automatic (DHCP) IP address[/caption]
-
-<strong>Image Source:</strong><em> </em><em>pureinfotech.com</em></li>
+[caption id="attachment_1203" align="aligncenter" width="1289"]<img class="wp-image-1203 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_9.png" alt="Enable automatic (DHCP) IP address " width="1289" height="697" /> Enable automatic (DHCP) IP address[/caption]</li>
  	<li>Finally, click the <strong>Save</strong> button.</li>
 </ol>
+<strong>Image Source:</strong><em> </em><em>pureinfotech.com</em>
 <h2 id="5">Summary:</h2>
 In the above article, you can get a piece of brief information on <strong>how to change from static to a dynamic IP address on Windows 10</strong> by using different methods with clear cut<strong> screenshots.</strong> Kindly share the <strong>suggestions/queries</strong> in the below comment box and drop your worthwhile <strong>feedback.</strong>
