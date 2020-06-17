@@ -33,28 +33,8 @@ Follow the steps to Reset this PC on Windows 10 in simple steps.
  	<li>The<strong> first one</strong> is when your computer is not working correctly.</li>
  	<li>The<strong> second one</strong> is when you decide to sell your device without giving away your personal files.</li>
  	<li>That's all.</li>
+ 	<li>If you are looking to reset your device, then use the link <a href="https://windowscrazy.com/1526-reset-pc-keeping-personal-files-on-windows-10/"><strong>steps to use Reset this PC.</strong></a></li>
 </ul>
-<h3>Steps to reset PC:</h3>
-<ol>
- 	<li>Make use of the shortcut<strong> Windows + I</strong> to open the Windows Settings.</li>
- 	<li>Then, select the <strong>Update &amp; Security</strong> in the Settings page.
-<div class="mceTemp"><img class="wp-image-1494 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_8-7-e1592304955650.png" alt="Settings" width="795" height="501" />
-<ol id="attachment_1494" class="wp-caption aligncenter" style="width: 795px;">Settings</ol>
-</div></li>
- 	<li>In the left pane, click on the <strong>Recovery</strong> option.</li>
- 	<li>Now, under the <strong>Reset this PC</strong> option, click the <strong>Get started</strong> button.
-
-[caption id="attachment_1495" align="aligncenter" width="798"]<img class="size-full wp-image-1495" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_9-5.png" alt="Recovery" width="798" height="505" /> Recovery[/caption]</li>
- 	<li>In the next window, if you want to keep your files without removing then select the option <strong>Keep my files </strong>or else choose the <strong><strong>other one </strong></strong>and click the <strong>Next</strong> option.
-
-[caption id="attachment_1496" align="aligncenter" width="674"]<img class="size-full wp-image-1496" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_10-5.png" alt="Windows 10 reset" width="674" height="392" /> Windows 10 reset[/caption]
-
-[caption id="attachment_1497" align="aligncenter" width="672"]<img class="size-full wp-image-1497" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_11-4.png" alt="Files" width="672" height="386" /> Files[/caption]</li>
- 	<li>Then, click the <strong>Reset</strong> tab.
-
-[caption id="attachment_1498" align="aligncenter" width="677"]<img class="size-full wp-image-1498" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_12-4.png" alt="Reset" width="677" height="394" /> Reset[/caption]</li>
- 	<li>That's all.</li>
-</ol>
 <h2 id="2">Fresh Start:</h2>
 Follow the steps to Fresh Start the Windows 10 in simple steps.
 <ul>
