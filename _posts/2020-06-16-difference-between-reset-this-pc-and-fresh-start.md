@@ -49,35 +49,7 @@ Follow the steps to Fresh Start the Windows 10 in simple steps.
  	<li>And also as well as performance and <strong>battery</strong> issues.</li>
  	<li>After the process, we need to <strong>reinstall</strong> some drivers if they are not detected by <strong>Windows Update.</strong></li>
  	<li>To <strong>reinstall </strong>any app that came pre-installed with your computer, that is applicable.</li>
- 	<li>Follow the below steps if you are<strong> planning Fresh Start with a clean copy.</strong></li>
+ 	<li>Follow this link if you are<strong> planning <a href="https://windowscrazy.com/1567-set-up-a-new-pc-with-a-fresh-copy-of-windows-10/">Fresh Start with a clean copy.</a></strong></li>
 </ul>
-<h3>Steps to Fresh Start:</h3>
-<ol>
- 	<li>Go to the <strong>start menu.</strong></li>
- 	<li>In the search column, type as <strong>Windows Security.</strong></li>
- 	<li><strong>Tap</strong> it which appears at the top of the start menu.
-
-[caption id="attachment_1485" align="aligncenter" width="829"]<img class="wp-image-1485 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_1-21.png" alt="Start Menu" width="829" height="660" /> Start Menu[/caption]</li>
- 	<li>In the<strong> Windows Security</strong> window, select the<strong> Device performance &amp; health option.</strong>
-
-[caption id="attachment_1486" align="aligncenter" width="798"]<img class="wp-image-1486 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_2-20.png" alt="Device performance &amp; health" width="798" height="629" /> Device performance &amp; health[/caption]</li>
- 	<li>Under the <strong>Fresh Start</strong> option, click on the <strong>Additional info.</strong>
-
-[caption id="attachment_1487" align="aligncenter" width="797"]<img class="wp-image-1487 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_3-17.png" alt="Fresh Start settings" width="797" height="630" /> Fresh Start settings[/caption]</li>
- 	<li>Now, click on the <strong>Get started</strong> option.
-
-[caption id="attachment_1488" align="aligncenter" width="797"]<img class="wp-image-1488 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_4-13.png" alt="Get started" width="797" height="629" /> Get started[/caption]</li>
- 	<li>In the next window, click the <strong>Next</strong> option.
-
-[caption id="attachment_1489" align="aligncenter" width="659"]<img class="wp-image-1489 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_5-11.png" alt="Fresh Start first step" width="659" height="343" /> Fresh Start first step[/caption]</li>
- 	<li>Your apps will be removed from the window, <strong>review</strong> the apps that will be removed.</li>
- 	<li>Then, click the <strong>Next</strong> button.
-
-[caption id="attachment_1490" align="aligncenter" width="659"]<img class="wp-image-1490 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_6-8.png" alt="Fresh Start second step" width="659" height="343" /> Fresh Start second step[/caption]</li>
- 	<li>Now, click the <strong>Start</strong> tab.
-
-[caption id="attachment_1491" align="aligncenter" width="666"]<img class="wp-image-1491 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_7-8.png" alt="Fresh start" width="666" height="352" /> Fresh start[/caption]</li>
- 	<li>That's all.</li>
-</ol>
 <h2 id="3">A Brief Synopsis:</h2>
 This guide assisted you in <strong>Difference between Reset this PC and Fresh Start </strong>on Windows 10. We hope that the steps let you understand it easier. Share your <strong>feedback</strong> in the below section.
