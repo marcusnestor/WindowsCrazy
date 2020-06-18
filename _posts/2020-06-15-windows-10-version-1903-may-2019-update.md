@@ -122,9 +122,7 @@ post_date: 2020-06-15 15:30:44
 </ul>
 <h2 id="3">New with desktop experience - What's?</h2>
 <ul>
- 	<li>Windows 10 is adding an acrylic effect, part of Fluent Design, to the sign-in background.
-
-[caption id="attachment_1382" align="aligncenter" width="1267"]<img class="wp-image-1382 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_10-4.png" alt="Windows 10 version 1903 with acrylic effect on the Sign-in screen" width="1267" height="762" /> Windows 10 version 1903 with acrylic effect on the Sign-in screen[/caption]</li>
+ 	<li>Windows 10 is adding an acrylic effect, part of Fluent Design, to the sign-in background.</li>
  	<li>The translucent texture helps you focus on the login task by moving the actionable controls up in the visual hierarchy while maintaining their accessibility.</li>
  	<li>You can disable the acrylic effect on the Sign-in screen using the Group Policy Editor.</li>
  	<li>Go to the following path,
@@ -222,9 +220,7 @@ post_date: 2020-06-15 15:30:44
 <ul>
  	<li>The Settings app is also getting a number of refinements.</li>
  	<li>Settings home page now has a header allowing you to take quick actions for things like signing in and managing your Microsoft account.</li>
- 	<li>It gives you an easy to glance at system status, such as when updates are available.
-
-[caption id="attachment_1397" align="aligncenter" width="1272"]<img class="wp-image-1397 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_25.png" alt="Settings app with header information on Windows 10 May 2019 Update" width="1272" height="769" /> Settings app with header information on Windows 10 May 2019 Update[/caption]</li>
+ 	<li>It gives you an easy to glance at system status, such as when updates are available.</li>
 </ul>
 <h3>Advanced scaling settings:</h3>
 <ul>
