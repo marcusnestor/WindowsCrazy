@@ -19,9 +19,7 @@ post_date: 2020-06-18 06:12:18
 
 In this article, we explain the simple steps to <strong>set up a new PC with a fresh copy of Windows 10.</strong>
 <h2 id="1">Steps to Fresh Start:</h2>
-<ol>
- 	<li style="list-style-type: none;">
-<ol>
+<ul>
  	<li>Go to the <strong>start menu.</strong></li>
  	<li>In the search column, type as <strong>Windows Security.</strong></li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -47,8 +45,6 @@ In this article, we explain the simple steps to <strong>set up a new PC with a f
 
 [caption id="attachment_1491" align="aligncenter" width="666"]<img class="wp-image-1491 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_7-8.png" alt="Fresh start" width="666" height="352" /> Fresh start[/caption]</li>
  	<li>That's all.</li>
-</ol>
-</li>
-</ol>
+</ul>
 <h2 id="2">A Brief Synopsis:</h2>
 Hoping that the above tutorial will help you to <strong>set up a new PC with a fresh copy of Windows 10.</strong><strong> </strong>Kindly share if any case of queries and suggestions in the below comment section and drop your valuable feedback.
