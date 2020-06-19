@@ -1,8 +1,8 @@
 ---
 ID: 1573
 post_title: >
-  Create multiple profiles on Google
-  Chrome!!
+  Quickly Create Multiple Profiles on
+  Google Chrome!!
 author: Eva
 post_excerpt: ""
 layout: post
