@@ -21,7 +21,7 @@ post_date: 2020-06-19 06:39:20
 In this article, we guide to <strong>Set up spatial sound with Dolby Atmos on Windows 10.</strong>
 <h2 id="1">Enable spatial sound for headphones:</h2>
 Follow the below steps to enable spatial sound for headphones in simple steps.
-<ul>
+<ol>
  	<li>Click on the shortcut <strong>Windows + I</strong> to open the <strong>Windows Settings.</strong></li>
  	<li>In the settings window, select the <strong>System</strong> option.
 
@@ -41,10 +41,10 @@ Follow the below steps to enable spatial sound for headphones in simple steps.
 [caption id="attachment_1643" align="aligncenter" width="399"]<img class="size-full wp-image-1643" src="https://windowscrazy.com/wp-content/uploads/2020/06/Screenshot_11-5.png" alt="Spatial sound" width="399" height="542" /> Spatial sound[/caption]</li>
  	<li>Click <strong>Apply</strong> and then click <strong>OK</strong> button.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="2">Enable spatial sound for home theater:</h2>
 <div class="code-block code-block-8">Follow the steps to enable spatial sound for home theater using simple steps.</div>
-<ul>
+<ol>
  	<li>Go to the <a href="https://fave.co/30VI7tk"><strong>Microsoft Store.</strong></a></li>
  	<li>Then, click the <strong>Get</strong> button.
 
@@ -68,6 +68,6 @@ Follow the below steps to enable spatial sound for headphones in simple steps.
  	<li>After that,<strong> turn on</strong> your home theater.</li>
  	<li>Finally, <strong>continue</strong> with the on-screen directions.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="3">Verdict:</h2>
 Hopefully, this tutorial helped you to <strong>Set</strong><b> up spatial sound with Dolby Atmos on Windows 10.</b> Besides, the clear cut screenshots will help you understand clearly. Kindly share your valuable comments to enhance our write-up.
