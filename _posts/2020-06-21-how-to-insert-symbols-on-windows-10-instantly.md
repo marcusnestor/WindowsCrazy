@@ -56,6 +56,6 @@ In another way, you can insert emojis or symbols to your file or social media po
  	<li>It is possible to change the color and increase or decrease the font size of the symbols as it will behave like text content.</li>
  	<li>Makes sure to choose the font as Windings, Windings 2, or Windings 3 to see more symbols.</li>
 </ul>
-<blockquote><strong>Tip:</strong> Have a break with a <strong>hamburger</strong>☻by pressing <strong>Alt + 127828.</strong></blockquote>
+<blockquote><strong>Tip:</strong> Have a break with a <strong>hamburger 🍔</strong>by pressing <strong>Alt + 127828.</strong></blockquote>
 <h2 id="4">A Brief Summary:</h2>
 Probably, the above ways helped you a lot to <strong>Insert Symbols on Windows 10</strong> effectively. Follow the easy steps to insert symbols and kaomoji into your text files, documents, social media posts, and emails. Your <strong>comments</strong> are highly welcomed as it cheers our write-up. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
