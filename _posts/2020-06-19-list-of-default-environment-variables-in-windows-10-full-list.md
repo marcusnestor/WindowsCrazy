@@ -218,5 +218,5 @@ Open the Command Prompt and run the below variables to view the output.
 </table>
 <p id="note">Note: The above Environment Variables are listed for Windows 10. But, it will also work on Windows 7, Windows 8.x, and Windows Vista.</p>
 
-<h2 id="1">Conclusion:</h2>
+<h2 id="2">Conclusion:</h2>
 Hopefully, this article assisted you to learn the thorough list of  <strong>Default Environment Variables in Windows 10. </strong>It saves your time and effort as you don't have to search for any specific folder or file location. Don't forget to share your <strong>comments</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
