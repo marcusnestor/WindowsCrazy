@@ -56,4 +56,4 @@ You can<a href="https://windowscrazy.com/102-how-to-enable-remote-desktop-on-win
 [caption id="attachment_1755" align="alignnone" width="1098"]<img class="size-full wp-image-1755" src="https://windowscrazy.com/wp-content/uploads/2020/06/rd5.png" alt="Disable Command" width="1098" height="626" /> Disable Command[/caption]</li>
 </ul>
 <h2 id="3">Wind up:</h2>
-This guide assisted you to <strong>Enable Remote Desktop from Command Line </strong>in Windows 10 in clear-cut steps. We hope that the steps let you understand the enabling process easier. Share your <strong>feedback</strong> in the below section. Thanks for visiting <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
+This guide assisted you to <strong>Enable Remote Desktop from Command Line </strong>in Windows 10 in clear-cut steps. We hope that the steps let you understand the enabling process easier. Share your <strong>feedback</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
