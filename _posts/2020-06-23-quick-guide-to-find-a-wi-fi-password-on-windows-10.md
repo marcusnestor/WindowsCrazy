@@ -20,7 +20,7 @@ post_date: 2020-06-23 14:34:04
 In this article, we illustrate an outline of<strong> How to find a Wi-Fi Password on Windows 10</strong> in some different methods.
 <h2 id="1">1) Using Control Panel Find a Wi-Fi password:</h2>
 Follow the below steps to find a Wi-Fi password using Control Panel in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>start menu.</strong></li>
  	<li>In the <strong>search</strong> column, type as<strong> Control Panel.</strong></li>
  	<li><strong>Tap</strong> it which appears at the top of the start menu.
@@ -46,12 +46,12 @@ Follow the below steps to find a Wi-Fi password using Control Panel in simple st
 
 [caption id="attachment_1819" align="aligncenter" width="425"]<img class="size-full wp-image-1819" src="https://windowscrazy.com/wp-content/uploads/2020/06/explorer_bFBNs1dYQj.png" alt="Properties" width="425" height="597" /> Properties[/caption]</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="2">2) Using Command Prompt Find a Wi-Fi password:</h2>
 You can only view the <strong>Wi-Fi password</strong> for the network you are <strong>currently connected</strong> by using the <strong>above method</strong>. By using the <strong>Command Prompt</strong> method you can view your<strong> current password, or saved</strong> Wi-Fi networks stored on your Windows 10 computer.
 
 Follow the below steps to find a Wi-Fi password using Command Prompt in simple steps.
-<ul>
+<ol>
  	<li>Go to the <strong>start menu.</strong></li>
  	<li>In the search column, type as<strong> Command Prompt.</strong></li>
  	<li>Then <strong>right-click</strong> on the Command Prompt and select the<strong> Run as an Administrator</strong> option.
@@ -70,9 +70,9 @@ Follow the below steps to find a Wi-Fi password using Command Prompt in simple s
 [caption id="attachment_1817" align="aligncenter" width="701"]<img class="size-full wp-image-1817" src="https://windowscrazy.com/wp-content/uploads/2020/06/cmd_BfUL2g4Olr.png" alt="Command" width="701" height="928" /> Command[/caption]</li>
  	<li>Then, in the command don't forget to change <strong>WiFi-Profile</strong> for the name your current or saved network you want to see the password.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="3">3) Using a Wi-Fi Password Finder Program:</h2>
-<ul>
+<ol>
  	<li>Click the link to download the <a href="https://www.magicaljellybean.com/wifi-password-revealer/"><strong>Wi-Fi Password Revealer.</strong></a></li>
  	<li>After <strong>downloaded</strong>, click it.</li>
  	<li>Now, select your desired <strong>language</strong> and click <strong>OK</strong> to continue.</li>
@@ -82,6 +82,6 @@ Follow the below steps to find a Wi-Fi password using Command Prompt in simple s
 [caption id="attachment_1829" align="aligncenter" width="954"]<img class="wp-image-1829 size-full" src="https://windowscrazy.com/wp-content/uploads/2020/06/chrome_sOt6QAip5S-e1592929405204.png" alt="Third party" width="954" height="343" /> Third-party[/caption]</li>
  	<li>It reveals all the networks you have connected to using your Windows device in the past, along with the passwords you have used to successfully connect to each one.</li>
  	<li>That's all.</li>
-</ul>
+</ol>
 <h2 id="4">Summary:</h2>
 The above information helped you a lot to understand <strong>How to find a Wi-Fi Password on Windows 10.</strong> Your comments are highly welcomed drop it in the below comment section.
