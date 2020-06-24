@@ -1,7 +1,7 @@
 ---
 ID: 1619
 post_title: >
-  Set up spatial sound with Dolby Atmos on
+  Set Up Spatial Sound with Dolby Atmos on
   Windows 10!!
 author: Eva
 post_excerpt: ""
