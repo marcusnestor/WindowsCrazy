@@ -1,7 +1,7 @@
 ---
 ID: 1672
 post_title: >
-  How to change the Computer name on
+  How to Change the Computer Name on
   Windows 10?
 author: Eva
 post_excerpt: ""
