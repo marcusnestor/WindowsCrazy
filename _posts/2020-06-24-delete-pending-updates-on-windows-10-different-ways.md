@@ -1,6 +1,6 @@
 ---
 ID: 1868
-post_title: 'Delete pending updates on Windows 10!! [Different Ways]'
+post_title: 'Delete Pending Updates on Windows 10!! [Different Ways]'
 author: Eva
 post_excerpt: ""
 layout: post
