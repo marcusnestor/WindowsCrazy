@@ -1,7 +1,7 @@
 ---
 ID: 1648
 post_title: >
-  Enable dark mode for Google Chrome on
+  Enable Dark Mode for Google Chrome on
   Android!!
 author: Eva
 post_excerpt: ""
