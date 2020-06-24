@@ -1,8 +1,8 @@
 ---
 ID: 1827
 post_title: >
-  Using Macrium Reflect to clone a Windows
-  10 hard drive to SSD!!
+  Using Macrium Reflect to Clone a Windows
+  10 Hard Drive to SSD!!
 author: Eva
 post_excerpt: ""
 layout: post
