@@ -1,7 +1,7 @@
 ---
 ID: 1675
 post_title: >
-  How to install Plex Media Server on
+  How to Install Plex Media Server on
   FreeNAS?
 author: Eva
 post_excerpt: ""
