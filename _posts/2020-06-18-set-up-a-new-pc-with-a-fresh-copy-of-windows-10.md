@@ -1,7 +1,7 @@
 ---
 ID: 1567
 post_title: >
-  Set up a new PC with a fresh copy of
+  Set Up a New PC with a Fresh Copy of
   Windows 10!!
 author: Eva
 post_excerpt: ""
