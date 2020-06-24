@@ -1,7 +1,7 @@
 ---
 ID: 1512
 post_title: >
-  Change low battery notification settings
+  Change Low Battery Notification Settings
   on Windows 10!!
 author: Eva
 post_excerpt: ""
