@@ -1,6 +1,6 @@
 ---
 ID: 1806
-post_title: '{Quick Guide} To find a Wi-Fi Password on Windows 10!!'
+post_title: '{Quick Guide} To Find a Wi-Fi Password on Windows 10!!'
 author: Eva
 post_excerpt: ""
 layout: post
