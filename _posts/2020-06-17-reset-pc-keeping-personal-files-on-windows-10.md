@@ -1,7 +1,7 @@
 ---
 ID: 1526
 post_title: >
-  Reset PC keeping Personal Files on
+  Reset PC Keeping Personal Files on
   Windows 10!!
 author: Eva
 post_excerpt: ""
