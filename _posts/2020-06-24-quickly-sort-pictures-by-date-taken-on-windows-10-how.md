@@ -1,6 +1,6 @@
 ---
 ID: 1859
-post_title: '{Quickly} Sort pictures by date taken on windows 10 &#8211; How?'
+post_title: '{Quickly} Sort Pictures by Date Taken on Windows 10 &#8211; How?'
 author: Eva
 post_excerpt: ""
 layout: post
