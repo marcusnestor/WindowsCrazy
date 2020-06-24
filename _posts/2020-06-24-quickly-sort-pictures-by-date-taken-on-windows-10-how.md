@@ -67,4 +67,4 @@ Follow the below steps to Group all your pictures in simple steps.
  	<li>This will also help you to group all your pictures into a sort of collection.</li>
 </ol>
 <h2 id="4">Verdict:</h2>
-In this article, we explained <strong>How to sort pictures by date taken on Windows.</strong> Kindly share your<strong> comments/feedback</strong> in the below section.
+In this article, we explained <strong>How to sort pictures by date taken on Windows.</strong> Besides the clear cut screenshots let you understand easily. Kindly share your<strong> comments/feedback</strong> in the below section.
