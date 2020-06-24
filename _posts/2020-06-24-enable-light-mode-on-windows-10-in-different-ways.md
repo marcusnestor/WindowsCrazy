@@ -1,8 +1,8 @@
 ---
 ID: 1877
 post_title: >
-  Enable light mode on Windows 10 in
-  different ways!!
+  Enable Light Mode on Windows 10 in
+  Different Ways!!
 author: Eva
 post_excerpt: ""
 layout: post
