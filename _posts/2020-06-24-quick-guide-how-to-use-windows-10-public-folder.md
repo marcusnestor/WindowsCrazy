@@ -1,6 +1,6 @@
 ---
 ID: 1909
-post_title: '(*Quick Guide*) How to Use Windows 10 Public Folder?'
+post_title: 'How to Use Windows 10 Public Folder? (*Quick Guide*)'
 author: Isabella Nestor
 post_excerpt: ""
 layout: post
