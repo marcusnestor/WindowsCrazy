@@ -15,9 +15,9 @@ post_date: 2020-06-29 13:02:21
  	<li><a href="#1">Show Saved Passwords in Firefox on Windows 10</a></li>
  	<li><a href="#2">Closure</a></li>
 </ul>
-<strong><span class="dcap">H</span>ow to Show Saved Passwords in Firefox on Windows 10? </strong>Saving passwords will be easier to sign in to the website becomes easier. Mozilla Firefox can save passwords of any site you visit.
+<strong><span class="dcap">H</span>ow to Show Saved Passwords in Firefox on Windows 10? </strong>Saving passwords will be easier to sign in to the website becomes easier. <strong>Mozilla Firefox</strong> can save passwords of any site you visit.
 
-In this article, we explain How to Show Saved Passwords in Firefox on Windows 10 in simple steps.
+In this article, we explain <strong>How to Show Saved Passwords in Firefox on Windows 10</strong> in simple steps.
 <h2 id="1">Show Saved Passwords in Firefox on Windows 10:</h2>
 Follow the below steps to Show Saved Passwords in Firefox on Windows 10 in simple steps.
 <ol>
