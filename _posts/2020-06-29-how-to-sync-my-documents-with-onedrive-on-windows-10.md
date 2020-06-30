@@ -25,7 +25,7 @@ In this article, we illustrate an outline of <strong>How to Sync My Documents wi
  	<li>Now, click the <strong>Menu</strong> option in the OneDrive.</li>
  	<li>Select <strong>Settings</strong> on the menu.
 
-[caption id="attachment_2125" align="aligncenter" width="402"]<img class="size-full wp-image-2125" src="https://windowscrazy.com/wp-content/uploads/2020/06/chrome_ecQnqTAQfW.png" alt="More" width="402" height="532" /> More[/caption]</li>
+[caption id="attachment_2181" align="aligncenter" width="436"]<img class="size-full wp-image-2181" src="https://windowscrazy.com/wp-content/uploads/2020/06/ShareX_3Ao9DTEcJD.png" alt="Settings" width="436" height="829" /> Settings[/caption]</li>
  	<li>The Microsoft Drive window gets open, in that select <strong>Auto Save</strong> tab.</li>
  	<li>Click <strong>Update</strong> <strong>folders</strong> button.
 
@@ -43,7 +43,7 @@ Follow the below steps to manage settings for Windows 10 folders on OneDrive in 
  	<li>Now, click the <strong>Menu</strong> option in the OneDrive.</li>
  	<li>Select <strong>Settings</strong> on the menu.
 
-[caption id="attachment_2125" align="aligncenter" width="402"]<img class="size-full wp-image-2125" src="https://windowscrazy.com/wp-content/uploads/2020/06/chrome_ecQnqTAQfW.png" alt="More" width="402" height="532" /> More[/caption]</li>
+[caption id="attachment_2181" align="aligncenter" width="436"]<img class="size-full wp-image-2181" src="https://windowscrazy.com/wp-content/uploads/2020/06/ShareX_3Ao9DTEcJD.png" alt="Settings" width="436" height="829" /> Settings[/caption]</li>
  	<li>The Microsoft Drive window gets open, in that select <strong>Auto Save</strong> tab.</li>
  	<li>Click <strong>Update</strong> <strong>folders</strong> button.
 
