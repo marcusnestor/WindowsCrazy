@@ -47,7 +47,7 @@ This tutorial explains how to <strong>Disable Windows Hello </strong>in three di
 <h2 id="3">Disable Windows Hello via Registry Editor:</h2>
 <ol>
  	<li>Open the <strong>Run box </strong>with the use of this shortcut <strong>Windows key + R</strong>.</li>
- 	<li>After that, you have to type '<strong>regedit.exe</strong>' and click the <strong>OK </strong>button.
+ 	<li>After that, you have to type '<strong>regedit</strong>' and click the <strong>OK </strong>button.
 
 [caption id="attachment_418" align="alignnone" width="428"]<img class="size-full wp-image-418" src="https://windowscrazy.com/wp-content/uploads/2020/05/bi1.png" alt="Regedit" width="428" height="232" /> Regedit[/caption]</li>
  	<li>In the Registry Editor window, you have to navigate to the below path.<code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Settings\AllowSignInOptions</code></li>
