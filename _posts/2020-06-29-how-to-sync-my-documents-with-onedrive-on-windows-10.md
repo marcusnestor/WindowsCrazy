@@ -56,7 +56,6 @@ Follow the below steps to manage settings for Windows 10 folders on OneDrive in 
 [caption id="attachment_2121" align="aligncenter" width="654"]<img class="size-full wp-image-2121" src="https://windowscrazy.com/wp-content/uploads/2020/06/chrome_ikPwdWcogH.png" alt="Stop Protection" width="654" height="611" /> Stop Protection[/caption]</li>
  	<li>That's all.</li>
 </ol>
-<strong>Image Source:</strong> <em>pureinfotech.com</em>
 <h2 id="3">Verdict:</h2>
 We hope that this tutorial assisted in <strong>How to Sync My Documents with OneDrive on Windows 10.</strong> Kindly share your <strong>queries/comments</strong> in the below box and leave your worthwhile <strong>feedback</strong>.
 <h2>Related Articles:</h2>
