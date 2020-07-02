@@ -49,7 +49,7 @@ While it sounds easy, but Windows 10 won't be able to install specific drivers a
 </ol>
 <h2 id="3">Restore Device Drivers:</h2>
 <ul>
- 	<li>You can restore the backup drivers on the new installation of Windows 10 with the use of this command <code>DISM /online /Add-Driver /Driver:C:\DriverBackup /Recurse</code>. But, it will show the error when you try to run this command.</li>
+ 	<li>You can restore the backup drivers on the new installation of Windows 10 with the use of this command. <code>DISM /online /Add-Driver /Driver:C:\DriverBackup /Recurse</code>But, it will show the error when you try to run this command.</li>
  	<li>It is always good to install the driver manually, you need to install a few drivers as the OS will detect most of them automatically.</li>
 </ul>
 Follow the below steps to restore drivers manually using the Device Manager.
