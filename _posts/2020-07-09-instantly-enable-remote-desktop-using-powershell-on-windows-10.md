@@ -11,8 +11,8 @@ post_date: 2020-07-09 07:50:16
 ---
 <ul class="toc">
  	<li><a href="#1">Enable Remote Desktop via PowerShell</a></li>
- 	<li><a href="#1">Disable Remote Desktop via PowerShell</a></li>
- 	<li><a href="#4">Sum-up</a></li>
+ 	<li><a href="#2">Disable Remote Desktop via PowerShell</a></li>
+ 	<li><a href="#3">Sum-up</a></li>
 </ul>
 <span class="dcap">E</span><strong>nable Remote Desktop Using PowerShell: </strong>If you want to enable Remote Desktop on the computer or server, we will show you how to do it by PowerShell. While you can enable this remote desktop feature via settings, you can also enable or disable it via PowerShell.
 
@@ -32,7 +32,7 @@ You just need to run a simple command to enable or disable this feature. It will
  	<li>If you want to enable remote desktop through Windows Firewall, you can run the below command and hit <strong>Enter</strong>.</li>
  	<li><code>Enable-NetFirewallRule -DisplayGroup "Remote Desktop"</code></li>
 </ul>
-<h2 id="1">Disable Remote Desktop via PowerShell:</h2>
+<h2 id="2">Disable Remote Desktop via PowerShell:</h2>
 <ol>
  	<li>Go to the <strong>Start</strong> menu and type '<strong>powershell</strong>' in the search box.</li>
  	<li>You have to right-click on the top result and choose <strong>Run as administrator</strong>.</li>
@@ -46,5 +46,5 @@ You just need to run a simple command to enable or disable this feature. It will
  	<li>If you want to disable remote desktop through Windows Firewall, you can run the below command and hit <strong>Enter</strong>.</li>
  	<li><code>Disable-NetFirewallRule -DisplayGroup "Remote Desktop"</code></li>
 </ul>
-<h2 id="4">Sum-up:</h2>
+<h2 id="3">Sum-up:</h2>
 In the above tutorial, you have learned the quick steps to <b>Enable Remote Desktop using PowerShell </b>on Windows 10. Access your computer remotely or manage users or services without being present at the location by enabling the remote desktop feature. Feel free to share your <strong>valuable comments</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
