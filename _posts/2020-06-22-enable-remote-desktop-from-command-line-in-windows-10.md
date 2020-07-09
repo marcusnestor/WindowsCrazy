@@ -18,7 +18,7 @@ post_date: 2020-06-22 07:51:44
 </ul>
 <span class="dcap">E</span><strong>nable Remote Desktop from Command Line</strong>: Remote Desktop Protocol (RDP) is a useful feature that lets you connect two computers and so you can access another computer remotely. You can fix some issues or do any works on another computer as per your needs.
 
-You can<a href="https://windowscrazy.com/102-how-to-enable-remote-desktop-on-windows-10-quick-guide/"><strong> enable remote desktop via Settings or Control Panel</strong></a>. But, if you want to enable this feature without opening the Settings panel, you can enable it using Command Prompt or PowerShell.  In this guide, we will illustrate how to <strong>Enable Remote Desktop from Command Line </strong>in Windows 10.
+You can<a href="https://windowscrazy.com/102-how-to-enable-remote-desktop-on-windows-10-quick-guide/"><strong> enable remote desktop via Settings or Control Panel</strong></a>. But, if you want to enable this feature without opening the Settings or Control Panel, you can enable it using Command Prompt or PowerShell.  In this guide, we will illustrate how to <strong>Enable Remote Desktop from Command Line </strong>in Windows 10.
 <h2 id="1">Enable Remote Desktop via Command Prompt:</h2>
 <ol>
  	<li>Press the <strong>Windows key </strong>on your keyboard to open the <strong>Start</strong> menu. [You can also click the Windows logo in the bottom left corner of your screen]</li>
