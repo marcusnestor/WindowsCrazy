@@ -16,7 +16,9 @@ post_date: 2020-07-09 14:49:14
 </ul>
 <span class="dcap">S</span><strong>urface RT Recovery Image: </strong>Surface RT Recovery Image is specially designed for the Surface RT tablet users to restore OS and faulty devices to a working state in an effortless manner. Microsoft releases the Surface RT recovery image for Windows 8 in order to resolve the issues after updating to Windows RT 8.1. If you want to fix your bricked Surface RT, you have to create a USB recovery drive to store the image on it.
 
-Using the official recovery image, it is possible to make the tablet to run on the ARM processor. It will fix the issue so you can progress the installation of Windows RT 8.1 on the tablet. Let's look out the clear-cut steps to <strong>Download the Surface RT Recovery Image</strong><strong>. </strong>
+Using the official recovery image, it is possible to make the tablet to run on the ARM processor. It will fix the issue so you can progress the installation of Windows RT 8.1 on the tablet. Let's look out the clear-cut steps to <strong>Download the Surface RT Recovery Image</strong><strong>.</strong>
+
+[caption id="attachment_2401" align="alignnone" width="1600"]<img class="size-full wp-image-2401" src="https://windowscrazy.com/wp-content/uploads/2020/07/Download-the-Surface-RT-Recovery-Image.png" alt="Download the Surface RT Recovery Image" width="1600" height="815" /> Download the Surface RT Recovery Image[/caption]
 <h2 id="1"><strong>System Requirements:</strong></h2>
 <ul>
  	<li>Surface RT</li>
