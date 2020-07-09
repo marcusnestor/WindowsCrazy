@@ -13,7 +13,7 @@ post_date: 2020-07-09 05:12:50
 ---
 <ul class="toc">
  	<li><a href="#1">Downloading Media Creation Tool 1809</a></li>
- 	<li><a href="#2">Conclusion</a></li>
+ 	<li><a href="#2">Wrap-up</a></li>
 </ul>
 <span class="dcap">W</span><strong>indows 10 version 1809 Media Creation Tool</strong>: The Windows 10 version 1809 (October 2018 Update) can be installed via Windows Update. Microsoft also supports the use of the Media Creation Tool for the upgrades. You just go to the official site and download the media creation tool for version 1809 and then install it on your PC.
 
@@ -32,5 +32,5 @@ It is also possible to create a bootable USB medium with the use of a media crea
  	<li>You have to choose which media to use from the options <strong>USB flash drive</strong> or <strong>ISO file</strong> and then click the <strong>Next</strong> button.</li>
  	<li>The setup files will start to download and once the process gets completed, you have to click the <strong>Finish</strong> button.</li>
 </ol>
-<h2 id="2">Conclusion:</h2>
-Hopefully, this article assisted you to learn information on how to <strong>Download Windows 10 version 1809 Media Creation Tool</strong>. You just follow the steps to download the media creation tool quickly on your PC. Don't forget to share your <strong>comments</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
+<h2 id="2">Wrap-up:</h2>
+We hope that the above article assisted you on how to <strong>Download Windows 10 version 1809 Media Creation Tool</strong>. You just follow the steps to download the media creation tool quickly on your PC. Share your <strong>comments/feedback</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
