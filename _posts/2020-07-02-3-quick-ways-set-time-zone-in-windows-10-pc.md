@@ -63,7 +63,7 @@ Whatever the reason, it is possible to change the time zone effortlessly using t
 
 [caption id="attachment_2277" align="alignnone" width="682"]<img class="size-full wp-image-2277" src="https://windowscrazy.com/wp-content/uploads/2020/07/Apply-and-OK.png" alt="Apply and OK" width="682" height="806" /> Apply and OK[/caption]</li>
 </ol>
-<h2 id="4">Verdict:</h2>
+<h2 id="4">A Brief Summary:</h2>
 Hopefully, this article guided you to <strong>Set Time Zone in Windows 10</strong> within a few efforts. Clear-cut instructions let you understand the process easily. Don't forget to share your <strong>valuable queries</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
 <h2>Read Ahead:</h2>
 <ul>
