@@ -1,6 +1,6 @@
 ---
 ID: 2327
-post_title: '{3 Effortless Methods} Show Hidden Files on Windows 10!!'
+post_title: 'Show Hidden Files on Windows 10!! {3 Effortless Methods}'
 author: Isabella Nestor
 post_excerpt: ""
 layout: post
