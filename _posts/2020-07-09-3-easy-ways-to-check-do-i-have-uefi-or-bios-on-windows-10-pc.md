@@ -55,5 +55,5 @@ It is an easy method to make sure your system is using UEFI or BIOS as you just 
 [caption id="attachment_2412" align="alignnone" width="1037"]<img class="size-full wp-image-2412" src="https://windowscrazy.com/wp-content/uploads/2020/07/Disk-Partition.png" alt="Disk Partition" width="1037" height="660" /> Disk Partition[/caption]</li>
  	<li>If it says the<strong> System Reserved partition</strong>, then it indicates that your system is using <strong>BIOS</strong>.</li>
 </ol>
-<h2 id="3">A Short Synopsis:</h2>
+<h2 id="4">A Short Synopsis:</h2>
 In this tutorial, you have learned how to check<strong> Do I Have UEFI or BIOS </strong>on Windows 10 PC. You just follow any one of the ways to make sure if your system using UEFI or BIOS so that you can know the type of your PC. If you found this article useful, kindly share your <strong>valuable comments</strong> in the below section. We appreciate your presence in <a href="https://windowscrazy.com/"><strong>Windows Crazy</strong></a>.
