@@ -1,6 +1,6 @@
 ---
 ID: 2271
-post_title: '(*3 Quick Ways*) Set Time Zone in Windows 10 PC!!'
+post_title: 'How to Set Time Zone in Windows 10 PC? (*3 Quick Ways*)'
 author: Isabella Nestor
 post_excerpt: ""
 layout: post
