@@ -1,6 +1,6 @@
 ---
 ID: 2343
-post_title: '(*3 Quick Ways*) How to View System Information on Windows 7?'
+post_title: 'How to View System Information on Windows 7? (*3 Quick Ways*)'
 author: Isabella Nestor
 post_excerpt: ""
 layout: post
